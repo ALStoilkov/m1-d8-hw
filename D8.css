@@ -1,0 +1,14 @@
+#myTaskList {
+    background-color: cadetblue;
+}
+ul > li {
+    border: solid 2px;
+    border-radius: 2px;
+    text-decoration: solid;
+    text-size-adjust: 24px;
+}
+
+input[type="button"] {
+    font-size: 1.3rem;
+    padding: 8px 10px;
+}
